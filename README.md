@@ -70,3 +70,11 @@ Costo anterior en sistema: $10.50 | Nuestro PVP actual a farmacias: $15.00
 Alerta de Variedad: Actualmente manejamos 4 marcas de Acetaminofén. Sin embargo, debido a que el stock actual solo cubre 15 días y el costo neto de PharmaVida ($10.26) mejora nuestro costo anterior ($10.50), se recomienda proceder con la compra de este lote para reponer inventario y expandir el margen de ganancia al venderlo a nuestro PVP actual ($15.00).
 
 Desarrollado con 💙 para el Reto AI Academy de Platzi.
+
+"Tecnologías y Metodologías Utilizadas"
+
+> Ingeniería de Prompts (Prompt Engineering)
+
+> Modelos de Lenguaje (LLMs) aplicados a negocios
+
+> Optimización de la cadena de suministro farmacéutica
